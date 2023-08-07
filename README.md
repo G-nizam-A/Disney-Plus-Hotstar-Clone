@@ -2,7 +2,7 @@
 
 # Disney+ Clone with React and Tailwind CSS
 
-![Disney+ Clone](ss.png)
+![Disney+ Clone](Screenshot/ss.png)
 ![Disney+ Clone](ss1.png)
 
 This project is a Full Stack Disney+ clone built using React.js and Tailwind CSS. It allows users to browse trending movies and discover movies by genre using data from the [The Movie Database (TMDb) API](https://www.themoviedb.org/). The application provides a user-friendly interface similar to the Disney+ streaming platform.
