@@ -63,11 +63,12 @@ The application uses the [Movie Database (TMDb) API](https://www.themoviedb.org/
 import axios from 'axios';
                       
 const movieBaseUrl = "https://api.themoviedb.org/3"
-const api_key = 'your-api-key9'
+const api_key = 'your-api-key'
 ```
 Remember to replace 'your-api-key' with your actual TMDb API key in GlobalApi.js file.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project.
+
+Contributions to this project are welcome! Feel free to open issues and submit pull requests for any improvements, bug fixes, or new featu
 
 
