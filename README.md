@@ -19,7 +19,7 @@ This project is a Full Stack Disney+ clone built using React.js and Tailwind CSS
 
 ## Demo
 
-Provide a link to a live demo of your application if available.
+[Live demo of application.](https://g-nizam-a.github.io/Disney-Plus-Hotstar-Clone/)
 
 ## Features
 
