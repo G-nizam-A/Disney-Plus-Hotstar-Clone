@@ -1,4 +1,4 @@
-### Credit: [https://www.youtube.com/@tubeguruji](https://youtu.be/3NHYl0Lo74A)
+#### Credit: [https://www.youtube.com/@tubeguruji](https://youtu.be/3NHYl0Lo74A)
 
 # Disney+ Clone with React and Tailwind CSS
 
