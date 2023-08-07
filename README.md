@@ -57,9 +57,13 @@ This project is a Full Stack Disney+ clone built using React.js and Tailwind CSS
 
 ## API Integration
 
-The application uses the [Movie Database (TMDb) API](https://www.themoviedb.org/) to fetch movie data. The API requests are handled using the provided api.js module. Trending movies and movies by genre can be accessed through the following methods:
+The application uses the [Movie Database (TMDb) API](https://www.themoviedb.org/) to fetch movie data. The API requests are handled using the provided GlobalApi.js module. Trending movies and movies by genre can be accessed through the following methods:
 ```javascript
-const trendingData = api.getTrending;
+//GlobalApi.js
+import axios from 'axios';
+                      
+const movieBaseUrl = "https://api.themoviedb.org/3"
+const api_key = 'your-api-key9'
 ```
 Remember to replace 'your-api-key' with your actual TMDb API key in GlobalApi.js file.
 
